@@ -1,0 +1,12 @@
+
+For getting the new starter theme using the below shopify theme command 
+theme new --password=[private app api password] --store=[your-store-name].myshopify.com --name=[Theme Name]
+
+
+For getting the existing theme (e.g. Debut or Brooklyn) from your store using the below shopify theme command 
+theme get --password=[private app api password] --store=[your-store-name].myshopify.com --t=[Theme ID]
+
+You can get your shopify store themes ID without having any difficulties by using the below shopify theme command 
+theme get --list --password=[private app api password] --store=[your-store-name].myshopify.com 
+
+
